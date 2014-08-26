@@ -11,5 +11,5 @@
     	"sessionPart": {
     		"$ref": "Access.json"
     	}
-	}
+    }
 }
